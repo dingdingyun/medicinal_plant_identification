@@ -1,0 +1,9 @@
+
+train: D:/PycharmProject/xunlian/yolov5/my_data/train.txt
+val: D:/PycharmProject/xunlian/yolov5/my_data/val.txt
+test: D:/PycharmProject/xunlian/yolov5/my_data/test.txt
+# number of class
+nc:
+
+#classs name
+names: ['']
